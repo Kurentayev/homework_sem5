@@ -1,0 +1,15 @@
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/bin/Debug/net6.0/task34
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/bin/Debug/net6.0/task34.deps.json
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/bin/Debug/net6.0/task34.runtimeconfig.json
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/bin/Debug/net6.0/task34.dll
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/bin/Debug/net6.0/task34.pdb
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/obj/Debug/net6.0/task34.csproj.AssemblyReference.cache
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/obj/Debug/net6.0/task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/obj/Debug/net6.0/task34.AssemblyInfoInputs.cache
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/obj/Debug/net6.0/task34.AssemblyInfo.cs
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/obj/Debug/net6.0/task34.csproj.CoreCompileInputs.cache
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/obj/Debug/net6.0/task34.dll
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/obj/Debug/net6.0/refint/task34.dll
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/obj/Debug/net6.0/task34.pdb
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/obj/Debug/net6.0/task34.genruntimeconfig.cache
+/Users/fly2moon/Desktop/GeekBrains/sem5_homework/homework_sem5/task34/obj/Debug/net6.0/ref/task34.dll
